@@ -1,8 +1,4 @@
-#!/usr/bin/env node
-// The shebang line that indicates the script should be run using the node interpreter.
-
-import deploy from 'deploy-ghx';
-// Import the 'deploy' function from the 'deploy-ghx' module.
+import deploy from '../src/deploy.js';
 
 /**
  * Default configuration for deployment.

@@ -20,12 +20,12 @@
     "deploy-ghx": "./bin/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./tests/test.js ",
+    "deploy-ghx": "./bin/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.3.0",
     "picocolors": "^1.0.0",
     "shelljs": "^0.8.5"
   }
