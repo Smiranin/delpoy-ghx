@@ -4,6 +4,11 @@
   "description": "Deploy app to gh-pages",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smiranin/delpoy-ghx"
+  },
+  "homepage": "https://github.com/Smiranin/delpoy-ghx",
   "keywords": [
     "gh-pages",
     "deploy",
