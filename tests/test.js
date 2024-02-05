@@ -1,5 +1,6 @@
 import deploy from '../src/deploy.js';
 
+console.log('Heeellooo!');
 /**
  * Default configuration for deployment.
  * @typedef {Object} DefaultConfig

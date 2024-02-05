@@ -9,7 +9,9 @@
     "deploy",
     "github",
     "ng deploy",
-    "angular deploy"
+    "angular deploy",
+    "react deploy",
+    "vue deploy"
   ],
   "files": [
     "index.js",
