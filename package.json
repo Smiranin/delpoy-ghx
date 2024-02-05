@@ -1,6 +1,6 @@
 {
   "name": "deploy-ghx",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Deploy app to gh-pages",
   "main": "index.js",
   "type": "module",
